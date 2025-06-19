@@ -1,3 +1,4 @@
+import AboutSection from "@/components/About";
 import BenefitsSection from "@/components/Benefits";
 import CTASection from "@/components/CTA";
 import FeaturesSection from "@/components/Features";
@@ -15,8 +16,10 @@ const page = () => {
 			/>
 			<Header />
 			<HeroSection />
+			<AboutSection />
 			<FeaturesSection />
 			<BenefitsSection />
+			
 			<CTASection />
 			<Footer />
 		</div>
