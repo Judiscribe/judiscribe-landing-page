@@ -88,7 +88,7 @@ const AboutSection = () => {
 							<h4 className="text-xl font-bold text-slate-900 mb-4">Local Expertise</h4>
 							<p className="text-slate-600 leading-relaxed">
 								Deep understanding of Nigerian legal system and cultural nuances, with support for 
-								Yoruba, Igbo, and Hausa languages.
+								multiple local languages.
 							</p>
 						</div>
 
