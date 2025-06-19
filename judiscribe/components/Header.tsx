@@ -116,7 +116,7 @@ const Header = () => {
 
 						{/* Mobile CTA Buttons */}
 						<div className="flex flex-col space-y-3 pt-4 border-t border-slate-200">
-							<button className="bg-white text-blue-600 px-8 py-4 rounded-lg hover:bg-blue-50 transition-colors font-semibold text-lg inline-block text-center cursor-pointer">
+							<button className="bg-blue-500 text-white px-8 py-4 rounded-lg hover:bg-blue-600 transition-colors font-semibold text-lg inline-block text-center cursor-pointer">
 								<Link href="mailto:judiscribelegal@gmail.com?subject=Interest in Judiscribe - Court Transcription Solution&body=Hello Judiscribe Team,%0D%0A%0D%0AI'm interested in learning more about your AI-powered court transcription solution for Nigerian courts.%0D%0A%0D%0APlease get in touch with more information.%0D%0A%0D%0AThank you!">
 									Contact Us
 								</Link>
